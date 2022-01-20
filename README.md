@@ -7,3 +7,4 @@ UAS oracel Sekolah
 ![image](https://user-images.githubusercontent.com/98111547/150386338-89d23489-ca9b-45b5-958f-90986a14f880.png)
 ![image](https://user-images.githubusercontent.com/98111547/150386460-ec90dcb4-da9f-47c9-8964-4f3f7150ddfa.png)
 ![image](https://user-images.githubusercontent.com/98111547/150386536-1065a1a3-1244-4384-98a2-8018ebe5b8b8.png)
+![image](https://user-images.githubusercontent.com/98111547/150386647-07242486-9518-4883-976a-7db7a5416347.png)
